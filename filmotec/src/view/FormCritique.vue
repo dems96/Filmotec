@@ -6,7 +6,7 @@
         <img v-bind:src= "'https://image.tmdb.org/t/p/w200' + img ">
         <br>
         <br>
-        <form action="http://localhost:8080/2eme%20ann%c3%a9e/untitled/getInfo.php" method="post">
+        <form action="http://localhost:8080/2eme%20ann%c3%a9e/projet_filmotec/getInfo.php" method="post">
             <div class="container col-lg-4">
                 <div class="form-group">
                     <label>Votre nom</label>
